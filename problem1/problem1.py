@@ -6,7 +6,7 @@ countmin = 0
 countmax = 1000
 multiplesum= 0
 sentence = " "
-for x in xrange(countmin,countmax +1):
+for x in xrange(countmin,countmax):
 	if (x % 3 == 0) or (x % 5 == 0):
 		multiplesum = multiplesum + x
 		sentence = sentence + str(x) + " + "
