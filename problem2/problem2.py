@@ -2,7 +2,7 @@
 x = 1
 y = 2
 fibsum = 0 # track total sum of even fib terms
-while x <= 4000000 and y <= 4000000: 
+while x <= 4000000: 
 	if y % 2 == 0:
 		#print str(y) + " is even"
 		fibsum = fibsum + y
