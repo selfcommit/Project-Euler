@@ -1,3 +1,3 @@
-A sollection of solution for problems found at:
+A collection of solution for problems found at:
 http://projecteuler.net/problems
 
